@@ -1,0 +1,7 @@
+pip install opencv-contrib-python --upgrade
+pip install opencv-python 
+pip install numpy
+pip install Pillow
+pip install pandas
+pip install datetime
+pip install openpyxl
